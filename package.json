@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@fluentui/foundation-legacy": "^8.2.21",
+    
     "@fluentui/react": "^8.98.1",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^14.4.3",
